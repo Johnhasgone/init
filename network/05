@@ -1,2 +1,5 @@
+# Identify the IP address of the DNS that responds to the following url: slash16.org
+# We see the DNS server in our local net
+
 #!/bin/bash
 nslookup slash16.org | grep 'Server' | awk '{print $2}'
