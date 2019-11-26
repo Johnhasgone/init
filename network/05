@@ -1,2 +1,2 @@
 #!/bin/bash
-host slash16.org | grep 'address' | awk '{print $4}'
+nslookup slash16.org | grep 'Server' | awk '{print $2}'
