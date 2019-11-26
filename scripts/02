@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo killall -u username
+sudo deluser -f username
