@@ -1,1 +1,3 @@
+# What file has to be modified to make a permanent change of system name?
+
 /etc/hostname
