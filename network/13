@@ -1,1 +1,5 @@
+# find the name of your host:
+# nslookup 'IP assigned by DHCP'
+# host 'IP assigned by DHCP'
+
 vo-i5.21-school.ru
