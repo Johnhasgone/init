@@ -1,4 +1,5 @@
 1. Create a new user by 'sudo adduser username' command. Enter username you need, password, and any other information.
 2. ssh username@ip_address. ip is the same as for old users on this system.
 
-
+via GUI
+Правый верхний угол - текущий пользователь - Параметры учетных записей - Добавить пользователя (перед этим понадобится ввести пароль) - ввести имя пользователя, пароль, определить его права (администратор или обычный)
