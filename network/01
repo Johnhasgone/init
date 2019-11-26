@@ -1,2 +1,3 @@
+#get the list of all network interfaces
 #!/bin/bash
 ifconfig -l
