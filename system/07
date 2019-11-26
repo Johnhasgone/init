@@ -1,2 +1,4 @@
+# Figure out the PID of the SSHD service.
+
 #!/bin/bash
 cat /var/run/sshd.pid
